@@ -1,3 +1,7 @@
+---
+layout: single
+title:  "미니프로젝트 - 네이버 증권 페이지 스크래핑"
+---
 ```python
 #라이브러리 불러오기
 import pandas as pd
